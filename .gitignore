@@ -1,3 +1,0 @@
-# 忽略node依赖和package文件
-node_modules
-.deploy_git
